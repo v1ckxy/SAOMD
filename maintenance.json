@@ -1,9 +1,9 @@
 {
    "valid": true,
    "opened_at": 1630303200,
-   "closed_at": 1664888400,
-   "detail": "The game is fucking dead, go spend money on other games now!",
+   "closed_at": 4828179600,
+   "detail": "A new version is available, please update your game.",
    "force_update_op_at": 1630303200,
-   "force_update_cl_at": 0,
-   "force_update_version":"3.0.2"
+   "force_update_cl_at": 4828179600,
+   "force_update_version":"4.0.0"
 }
